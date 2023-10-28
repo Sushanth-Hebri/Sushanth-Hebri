@@ -9,7 +9,7 @@
 
 - 🔭 Successfully finished project **Heat Beat Music player**
 
-- My Portfolio  :  [sushanth's portfolio (new version)](sushanth-hebri.onrender.com)
+- My Portfolio  :  [sushanth's portfolio (new version)](https://sushanth-hebri.onrender.com/)
 
 - 🌱 I’m currently learning **JavaScript,ReactJs and Python**
 
