@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sushanth_hebri" target="blank"><img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" /></a> </p>
 
-- 🔭 I’m currently working on **Heat Beat Music player**
+- 🔭 Successfully finished project **Heat Beat Music player**
+
+- My Portfolio  :  [sushanth's portfolio (new version)](sushanth-hebri.onrender.com)
 
 - 🌱 I’m currently learning **JavaScript,ReactJs and Python**
 
 - 👨‍💻 All of my projects are available at [https://sushanth-hebri.github.io/Sushanth_portfolio.github.io/](https://sushanth-hebri.github.io/Sushanth_portfolio.github.io/)
 
-- 💬 Ask me about **HTML,CSS,and about Frontend designs**
+- 💬 Ask me about **HTML,CSS,JS and about Frontend designs and Backend solutions**
 
 - 📫 How to reach me **sushanthhebri336@gmail.com**
 
