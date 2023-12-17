@@ -11,15 +11,19 @@
 
 - My Portfolio  :  [sushanth's portfolio (new version)](https://sushanth-hebri.onrender.com/)
 
-- 🌱 I’m currently learning **JavaScript,ReactJs and Python**
+- 🌱 I’m currently learning **Flutter,ReactJs and Python**
 
-- 👨‍💻 All of my projects are available at [https://sushanth-hebri.github.io/Sushanth_portfolio.github.io/](https://sushanth-hebri.github.io/Sushanth_portfolio.github.io/)
+- 👨‍💻 Visit once : [Voice navigation enabled portfolio](https://sushanth-hebri.onrender.com/)
 
-- 💬 Ask me about **HTML,CSS,JS and about Frontend designs and Backend solutions**
+- Here goes live  list...
+- [Weather app ](https://sushanth-hebri.github.io/Weather_API/)
+- - [TMDB- Movie explore](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
+
+- 💬 Ask me about **HTML,CSS,JS and about Frontend designs and Backend solutions and current updates..**
 
 - 📫 How to reach me **sushanthhebri336@gmail.com**
 
-- ⚡ Fun fact **I'm building a time travel machine!**
+- ⚡ Fun fact **I'm currently building a time travel machine!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
