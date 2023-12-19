@@ -1,29 +1,43 @@
 ![MasterHead](sushanth-render.png)
 <h1 align="center">Hey 👋, I'm Sushanth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right"alt="coding" width="400" height="500" src="sushanth-render.png">
+<!-- <img align="right"alt="coding" width="400" height="500" src="sushanth-render.png"> --><p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-hebri" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-hebri" /> </p>
+<p align="left">
+  <a href="https://twitter.com/sushanth_hebri" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/sushanth_hebri" target="blank"><img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" /></a> </p>
+# Sushanth Hebri's GitHub
 
-- 🔭 Successfully finished project **Heat Beat Music player**
+- 🔭 Successfully completed project: **Heat Beat Music Player**
 
-- My Portfolio  :  [sushanth's portfolio (new version)](https://sushanth-hebri.onrender.com/)
+- 🌐 Explore my portfolio: [Sushanth's Portfolio](https://sushanth-hebri.onrender.com/)
 
-- 🌱 I’m currently learning **Flutter,ReactJs and Python**
+- 🌱 Currently expanding my knowledge in: **Flutter, ReactJs, and Python**
 
-- 👨‍💻 Visit once : [Voice navigation enabled portfolio](https://sushanth-hebri.onrender.com/)
+- 👨‍💻 Check out my latest work: [Voice Navigation Enabled Portfolio](https://sushanth-hebri.onrender.com/)
 
-- Here goes live  list...
-- [Weather app ](https://sushanth-hebri.github.io/Weather_API/)
-- - [TMDB- Movie explore](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
+## Featured Projects:
 
-- 💬 Ask me about **HTML,CSS,JS and about Frontend designs and Backend solutions and current updates..**
+- [Weather App](https://sushanth-hebri.github.io/Weather_API/)
+- [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
 
-- 📫 How to reach me **sushanthhebri336@gmail.com**
+## Let's Connect:
 
-- ⚡ Fun fact **I'm currently building a time travel machine!**
+- 💬 Ask me about: **HTML, CSS, JS, Frontend Designs, Backend Solutions, and the latest industry updates**
+
+- 📫 Reach me at: [sushanthhebri336@gmail.com](mailto:sushanthhebri336@gmail.com)
+
+## Fun Fact:
+
+- ⚡ Did you know? I'm currently working on building a time travel machine!
+
+Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
