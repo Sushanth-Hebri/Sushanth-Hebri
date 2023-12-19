@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Sushanth-Hebri/GSAP-AWWWARD/blob/main/sushanth-render.png)
+![MasterHead](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/sushanth-render.png)
 <h1 align="center">Hey 👋, I'm Sushanth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right"alt="coding" width="400" height="500" src="https://images.unsplash.com/photo-1658204238967-3a81a063d162?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uZ29kYnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80">
