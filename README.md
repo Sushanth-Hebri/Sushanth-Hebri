@@ -1,7 +1,8 @@
 ![MasterHead](sushanth-render.png)
 <h1 align="center">Hey 👋, I'm Sushanth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<!-- <img align="right"alt="coding" width="400" height="500" src="sushanth-render.png"> --><p align="left">
+<!-- <img align="right"alt="coding" width="400" height="500" src="sushanth-render.png"> -->
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-hebri" />
 </p>
 
@@ -23,8 +24,17 @@
 
 ## Featured Projects:
 
-- [Weather App](https://sushanth-hebri.github.io/Weather_API/)
-- [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  
+  - [Weather App](https://sushanth-hebri.github.io/Weather_API/)
+
+</div>
+
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  
+  - [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
+
+</div>
 
 ## Let's Connect:
 
@@ -36,7 +46,8 @@
 
 - ⚡ Did you know? I'm currently working on building a time travel machine!
 
-Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
+Feel free to explore my projects, and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
+
 
 
 <h3 align="left">Connect with me:</h3>
