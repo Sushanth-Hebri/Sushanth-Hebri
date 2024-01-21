@@ -26,7 +26,7 @@
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   
-  - [Weather App](https://sushanth-auth.onrender.com/sign-in/MERN_Fully_deployed/)
+  - [MERN_Fully_deployed](https://sushanth-auth.onrender.com/sign-in/)
 
 </div>
 
