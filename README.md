@@ -23,7 +23,11 @@
 - 👨‍💻 Check out my latest work: [Voice Navigation Enabled Portfolio](https://sushanth-hebri.onrender.com/)
 
 ## Featured Projects:
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  
+  - [Human Image Verifier](https://hebris-human-validations.onrender.com/)
 
+</div>
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   
   - [MERN_Fully_deployed](https://sushanth-auth.onrender.com/sign-in/)
