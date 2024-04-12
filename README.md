@@ -49,6 +49,11 @@
   - [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
 
 </div>
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  
+  - [Visualize songs now](https://sushanth-hebri.github.io/Visualize-songs/)
+
+</div>
 
 ## Let's Connect:
 
