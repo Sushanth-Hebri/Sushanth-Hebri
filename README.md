@@ -22,38 +22,38 @@
 
 ## Featured Projects:
 
-<div align="center" style="display: flex; justify-content: space-between;">
-  <div>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="Human Image Verifier" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://hebris-human-validations.onrender.com/">Human Image Verifier</a>
   </div>
 
-  <div>
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="Rounds story telling site" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://rounds.onrender.com/">Rounds story telling site</a>
   </div>
 
-  <div>
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="Group Talks realtime" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://group-talkk.onrender.com/">Group Talks realtime</a>
   </div>
 
-  <div>
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="MERN Fully Deployed" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://sushanth-auth.onrender.com/sign-in/">MERN Fully Deployed</a>
   </div>
 
-  <div>
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="TMDB - Movie Explorer" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/">TMDB - Movie Explorer</a>
   </div>
 
-  <div>
+  <div style="flex-basis: 30%; text-align: center;">
     <img src="https://via.placeholder.com/100" alt="Visualize songs now" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://sushanth-hebri.github.io/Visualize-songs/">Visualize songs now</a>
