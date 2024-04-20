@@ -99,8 +99,14 @@ Feel free to explore my projects, and reach out if you have any questions or col
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanth-hebri&show_icons=true&locale=en&layout=compact" alt="sushanth-hebri" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanth-hebri&show_icons=true&locale=en&layout=compact" alt="sushanth-hebri" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushanth-hebri&show_icons=true&locale=en" alt="sushanth-hebri" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushanth-hebri&show_icons=true&locale=en" alt="sushanth-hebri" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanth-hebri&" alt="sushanth-hebri" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushanth-hebri&" alt="sushanth-hebri" />
+</p>
