@@ -1,4 +1,9 @@
 ![MasterHead](sushanth-render.png)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Sushanth+Hebri....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1> 
 <h1 align="center">Hey 👋, I'm Sushanth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <img align="right"alt="coding" width="400" height="500" src="sushanth-render.png"> -->
