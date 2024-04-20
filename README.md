@@ -24,11 +24,11 @@
 
 ## Featured Projects:
 
-[![Human Image Verifier API](https://media.licdn.com/dms/image/D5603AQHWOS375UZf4Q/profile-displayphoto-shrink_800_800/0/1674209668547?e=2147483647&v=beta&t=0rTbG3IpvFV-yqSr76-bKSyvaTinqVVPwuj8T3nXrmg | width=100 | height=50)](https://hebris-human-validations.onrender.com/)
+
 
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   
-  - [Human Image Verifier](https://hebris-human-validations.onrender.com/)
+`Human Image Verifier` - [`https://hebris-human-validations.onrender.com/`](https://hebris-human-validations.onrender.com/)
 
 </div>
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
