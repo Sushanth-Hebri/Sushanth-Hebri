@@ -27,6 +27,9 @@
     <img src="https://via.placeholder.com/100" alt="Human Image Verifier" style="border-radius: 10px; margin-bottom: 10px;">
     <br>
     <a href="https://hebris-human-validations.onrender.com/">Human Image Verifier</a>
+     <img src="https://via.placeholder.com/100" alt="Human Image Verifier" style="border-radius: 10px; margin-bottom: 10px;">
+    <br>
+    <a href="https://hebris-human-validations.onrender.com/">Human Image Verifier</a>
   </div>
 
   <div style="flex-basis: 30%; text-align: center;">
