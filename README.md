@@ -60,6 +60,11 @@
   - [Visualize songs now](https://sushanth-hebri.github.io/Visualize-songs/)
 
 </div>
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  
+  - [VIZ MUSIC - Search and enjoy ](https://sushanth-hebri.github.io/Viz-Music/)
+
+</div>
 
 
 ## Let's Connect:
