@@ -41,7 +41,7 @@
 </div>
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   
-  - [Group Talks realtime](https://group-talkk.onrender.com/)
+  - [Group Talks realtime](https://grouptalkk.onrender.com)
 
 </div>
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
