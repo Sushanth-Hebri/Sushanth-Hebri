@@ -1,7 +1,7 @@
 ![MasterHead](sushanth-render.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Sushanth+Hebri....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Sushanth+Hebri....;.&center=true&size=30">
   </a>
 </h1> 
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -18,13 +18,9 @@
 
 # Sushanth Hebri's GitHub
 
-- 🔭 Successfully completed project: **Heat Beat Music Player**
-
 - 🌐 Explore my portfolio: [Sushanth's Portfolio](https://sushanth-hebri.onrender.com/)
 
 - 🌱 Currently expanding my knowledge in: **Flutter, ReactJs, and Python**
-
-- 👨‍💻 Check out my latest work: [Voice Navigation Enabled Portfolio](https://sushanth-hebri.onrender.com/)
 
 ## Featured Projects:
 
