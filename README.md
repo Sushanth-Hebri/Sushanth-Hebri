@@ -24,10 +24,12 @@
 
 ## Featured Projects:
 
+- [Green real estate page to show the use case of "green vision API"](https://sushanth-hebri.github.io/Green-Estate_A_Real_Estate_Platform/)
 
+- [Mind-chit-content_application_with_ReactJs](mind-chit.vercel.app)
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   
-`Human Image Verifier` - [`https://hebris-human-validations.onrender.com/`](https://hebris-human-validations.onrender.com/)
+ [Human Image Verifier](https://hebris-human-validations.onrender.com/)
 
 </div>
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
