@@ -22,7 +22,9 @@
 
 **Recent work**
 
-![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/v2.png)
+![v2](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/v2.png)
+
+![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/v11.png)
 
 
 ## Featured Projects:
