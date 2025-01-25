@@ -20,7 +20,10 @@
 
 - 🌐 Explore my portfolio: [Sushanth's Portfolio](https://sushanth-hebri.onrender.com/)
 
-- 🌱 Currently expanding my knowledge in: **Flutter, ReactJs, and Python**
+**Recent work**
+
+![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/v2.png)
+
 
 ## Featured Projects:
 -[space cards app](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP)
