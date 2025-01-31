@@ -27,53 +27,22 @@
 ![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/v11.png)
 
 
-## Featured Projects:
--[space cards app](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP)
+## Featured Projects  
 
+| **Project Name (with Link)** | **Description** |  
+|-----------------------------|---------------|  
+| [Space Cards App](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP) | A space-themed card application featuring various versions and enhancements. |  
+| [Green Real Estate](https://sushanth-hebri.github.io/Green-Estate_A_Real_Estate_Platform/) | A real estate platform demonstrating the use case of the "Green Vision API." |  
+| [Mind-Chit](https://mind-chit.vercel.app) | A content-sharing application built using React.js. |  
+| [Human Image Verifier](https://hebris-human-validations.onrender.com/) | A web tool for human image verification. |  
+| [Rounds Storytelling Site](https://rounds.onrender.com/) | A storytelling platform for sharing interactive stories. |  
+| [Group Talks Realtime](https://grouptalkk.onrender.com) | A real-time group discussion and chat application. |  
+| [MERN Fully Deployed](https://sushanth-auth.onrender.com/sign-in/) | A full-stack MERN authentication system. |  
+| [Hebri’s Assistant](https://sushanth-hebri.github.io/Hebri-s-Assistant---accumulated-tools-/) | A collection of accumulated tools for various tasks. |  
+| [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/) | A movie exploration tool using the TMDB API. |  
+| [Visualize Songs Now](https://sushanth-hebri.github.io/Visualize-songs/) | A song visualization tool with interactive features. |  
+| [VIZ MUSIC](https://sushanth-hebri.github.io/Viz-Music/) | A music search and enjoyment platform. |  
 
-- [Green real estate page to show the use case of "green vision API"](https://sushanth-hebri.github.io/Green-Estate_A_Real_Estate_Platform/)
-
-- [Mind-chit-content_application_with_ReactJs](https://mind-chit.vercel.app)
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
- [Human Image Verifier](https://hebris-human-validations.onrender.com/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [Rounds story telling site](https://rounds.onrender.com/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [Group Talks realtime](https://grouptalkk.onrender.com)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [MERN_Fully_deployed](https://sushanth-auth.onrender.com/sign-in/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [Hebri's Assistant - accumulated tools](https://sushanth-hebri.github.io/Hebri-s-Assistant---accumulated-tools-/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [TMDB - Movie Explorer](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [Visualize songs now](https://sushanth-hebri.github.io/Visualize-songs/)
-
-</div>
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
-  - [VIZ MUSIC - Search and enjoy ](https://sushanth-hebri.github.io/Viz-Music/)
-
-</div>
 
 
 ## Let's Connect:
