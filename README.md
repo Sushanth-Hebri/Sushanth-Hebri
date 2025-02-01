@@ -28,7 +28,7 @@
 
 **Update:**
 
-![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/reakgd.png)
+![v1](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/realgd.png)
 
 ## Featured Projects  
 
