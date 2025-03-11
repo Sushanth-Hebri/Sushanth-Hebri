@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" />
   </a>
 </p>
-<h3 align="center"> Movie time ? got here </h3> [TMDB recent movies](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
+
 
 
 # Sushanth Hebri's GitHub
@@ -56,9 +56,12 @@
 
 - 📫 Reach me at: [sushanthhebri336@gmail.com](mailto:sushanthhebri336@gmail.com)
 
-## Fun Fact:
+<h3 align="center">Movie Time? Got Here</h3>
 
-- ⚡ Did you know? I'm currently working on building a time travel machine!
+<p align="center">
+  <a href="https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/">TMDB Recent Movies</a>
+</p>
+
 
 Feel free to explore my projects, and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
 
