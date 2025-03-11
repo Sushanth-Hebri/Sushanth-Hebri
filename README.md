@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" />
   </a>
 </p>
-<h3 align="center"> Movie time ? got here [TMDB recent movies](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)</h3>
+<h3 align="center"> Movie time ? got here </h3> [TMDB recent movies](https://sushanth-hebri.github.io/TMDB-API-INTEGRATION/)
 
 
 # Sushanth Hebri's GitHub
