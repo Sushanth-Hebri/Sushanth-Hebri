@@ -10,11 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-hebri" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/sushanth_hebri" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sushanth_hebri?logo=twitter&style=for-the-badge" alt="sushanth_hebri" />
-  </a>
-</p>
+
 
 
 
