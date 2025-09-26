@@ -12,7 +12,10 @@
 
 
 
-
+## Publications
+- [Blindaid: Assisting The Visually Impaired In Object Detection And Tracking Using Slam - ML+AI+IOT based project (2025))](https://theaspd.com/index.php/ijes/article/view/323)  
+  *Published in International Journal of Engineering & Science (IJES)*
+  *Under Top 3 Best Project (2025)
 
 # Sushanth Hebri's GitHub
 
