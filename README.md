@@ -15,7 +15,7 @@
 
 - [Blindaid: Assisting the Visually Impaired in Object Detection and Tracking Using SLAM](https://theaspd.com/index.php/ijes/article/view/323)  
   *International Journal of Engineering & Science (2024)*  
-  *Recognized as a Top 3 Project (2025)*
+  *Recognized as a Top 3 Project (2025)*  | Abstract of [paper](https://github.com/Sushanth-Hebri/Compass3.1/wiki/Paper-Abstract)
 
 # Sushanth Hebri's GitHub
 
