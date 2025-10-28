@@ -7,8 +7,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <!-- <img align="right"alt="coding" width="400" height="500" src="sushanth-render.png"> -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0e75b6&style=flat" alt="sushanth-hebri" />
+  <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=00bcd4&style=flat" alt="sushanth-hebri" />
 </p>
+
 
 
 ##  Publications
