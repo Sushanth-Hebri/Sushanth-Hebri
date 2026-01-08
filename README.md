@@ -34,6 +34,7 @@
 
 | **Project Name (with Link)** | **Description** |  
 |-----------------------------|---------------|  
+| [GeoDash-fleet management](https://github.com/Sushanth-Hebri/GeoDash-Fleet_Management) | fleet management console |  
 | [Space Cards App](https://github.com/Sushanth-Hebri/Spacecard-App-Versions-CP) | A space-themed card application featuring various versions and enhancements. |  
 | [Green Real Estate](https://sushanth-hebri.github.io/Green-Estate_A_Real_Estate_Platform/) | A real estate platform demonstrating the use case of the "Green Vision API." |  
 | [Mind-Chit](https://mind-chit.vercel.app) | A content-sharing application built using React.js. |  
