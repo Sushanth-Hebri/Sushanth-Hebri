@@ -15,12 +15,13 @@
 
 # Sushanth Hebri's GitHub
 
+- Music & typography concept based design :  [GeoDash-fleet management](https://github.com/Sushanth-Hebri/GeoDash-Fleet_Management) 
 - 🌐 Explore my portfolio: [Sushanth's Portfolio](https://sushanth-hebri.onrender.com/)
 
-**Recent work** visit for some UI park [GeoDash-fleet management](https://github.com/Sushanth-Hebri/GeoDash-Fleet_Management) 
+**Recent work** visit for some UI park [The space between words](https://sushanth-hebri.github.io/The-Space-Between-Words/) 
 
 
-![The space between words](https://github.com/Sushanth-Hebri/The-Space-Between-Words/blob/main/Screenshot%202026-02-05%20023124.png)
+![The space between words](https://github.com/Sushanth-Hebri/The-Space-Between-Words/blob/main/Screenshot%202026-02-08%20202417.png)
 
 ![geodash](https://github.com/Sushanth-Hebri/GeoDash-Fleet_Management/blob/main/images/geodashimg1.png)
 
