@@ -67,7 +67,7 @@
 
 ## Let's Connect:
 
-- 💬 Ask me about: **HTML, CSS, JS, Frontend Designs, Backend Solutions, and the latest industry updates**
+- 💬 Ask me about: **HTML, CSS, JS, Project Prototype, Frontend Designs, Backend Solutions, and the latest industry updates**
 
 - 📫 Reach me at: [sushanthhebri336@gmail.com](mailto:sushanthhebri336@gmail.com)
 
