@@ -1,8 +1,12 @@
 ![Sushanth Hebri](sushanth-sch.png)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=00bcd4&style=flat" alt="sushanth-hebri" />
+</p>
+
 # Sushanth Hebri
 
-Frontend developer. I build interface-led projects (music visualizers, film tools, fleet dashboards) and write the backend when a project needs one.
+Software engineer. I build things and solve problems, and my strongest suit is user experience and interface: how a product feels to use, and the engineering that makes it work.
 
 [Portfolio](https://sushanth-hebri.onrender.com/) · [LinkedIn](https://linkedin.com/in/sushanth_hebri) · [CodePen](https://codepen.io/sushanth-hebri) · [X](https://twitter.com/sushanth_hebri) · [LeetCode](https://www.leetcode.com/sushanth_hebri) · [Email](mailto:sushanthhebri336@gmail.com)
 
@@ -127,5 +131,3 @@ Rhombus turns a song into a living crystal that moves with the beat. Search for 
 ---
 
 Ask me about HTML, CSS, JavaScript, prototypes, frontend design or backend setups: [sushanthhebri336@gmail.com](mailto:sushanthhebri336@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=sushanth-hebri&label=Profile%20views&color=0891b2&style=flat" alt="Profile views">
