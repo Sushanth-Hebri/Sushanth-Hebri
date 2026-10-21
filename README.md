@@ -27,7 +27,7 @@ Rhombus turns a song into a living crystal that moves with the beat. Search for 
 
 ![Rhombus home page](https://github.com/Sushanth-Hebri/Sushanth-Hebri/raw/main/Screenshot%202026-10-21%20131342.png)
 
-![Rhombus visualizer](https://github.com/Sushanth-Hebri/Sushanth-Hebri/raw/main/Screenshot%202026-10-20%20204948.png)
+![Rhombus visualizer](https://github.com/Sushanth-Hebri/Sushanth-Hebri/blob/main/Screenshot%202026-10-21%20132758.png)
 
 ---
 
